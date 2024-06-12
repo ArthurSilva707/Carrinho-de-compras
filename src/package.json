@@ -1,0 +1,13 @@
+{
+  "name": "carrinho-de-compras",
+  "version": "1.0.0",
+  "description": "Projeto de aprendizado para criar um carrinho de compras baseado no da Amazon.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
