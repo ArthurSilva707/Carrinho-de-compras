@@ -32,7 +32,7 @@ backend/
 
 1. Clone o repositório para o seu ambiente local:
     ```sh
-    git clone https://github.com/ArthurSilva707/carrinho-de-compras.git
+    git clone https://github.com/ArthurSilva707/Carrinho-de-compras.git
     ```
 
 2. Navegue até o diretório do projeto:
